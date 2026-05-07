@@ -1,6 +1,7 @@
 ajfkaladnfjaflfs
 ankit jha
 dfsadfasd
+<<<<<<< HEAD
 dfasd
 sdfssdf
 changes by other developer 
@@ -8,3 +9,10 @@ sdfasdf
 
 
 testing for git rebase 
+=======
+.
+.
+changes by other developer 
+.
+added feature branch changes here 
+>>>>>>> 63af975 (inital commit)
